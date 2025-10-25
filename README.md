@@ -6,7 +6,6 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 
 
 - 🌱 I'm passionate about software architecture, system design, and team leadership
-- 💼 Expert in C#.NET, Python, Javascript, TypeScript, and cloud technologies (AWS, Azure, and now GCP)
 - 🎯 Focus areas: Backend Development, API Design, Microservices, CloudOps
 - 📚 Lifelong learner, constantly exploring new technologies and best practices
 
@@ -37,13 +36,3 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hazizsegun)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hertzdataguy.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazizsegun@gmail.com)
-
-
-## 📊 GitHub Stats
-
-
-<a href="https://github.com/haliaeetusvocifer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haliaeetusvocifer&show_icons=true&theme=shades-of-purple&count_private=true" alt="haliaeetusvocifer's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliaeetusvocifer&theme=shades-of-purple&layout=compact" 
-    alt="haliaeetusvocifer GitHub Top Languages" />
-</a>
