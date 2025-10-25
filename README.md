@@ -2,6 +2,9 @@
 
 I'm a Software developer and technical leader with 10+ years of experience designing scalable systems, building cloud-native solutions, and leading cross-functional teams. Skilled in leading the design, building, adaptation, execution, and maintenance of apps and systems.
 
+I'm trying to embrace constant learning, and growing. I'm currently working towards becoming a better version of myself.
+
+
 - 🌱 I'm passionate about software architecture, system design, and team leadership
 - 💼 Expert in C#.NET, Python, Javascript, TypeScript, and cloud technologies (AWS, Azure, and now GCP)
 - 🎯 Focus areas: Backend Development, API Design, Microservices, CloudOps
@@ -33,9 +36,12 @@ I'm a Software developer and technical leader with 10+ years of experience desig
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hertzdataguy.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazizsegun@gmail.com)
 
+
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=haliaeetusvocifer&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haliaeetusvocifer&layout=compact&theme=radical)
-
+<a href="https://github.com/haliaeetusvocifer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haliaeetusvocifer&show_icons=true&theme=shades-of-purple&count_private=true" alt="haliaeetusvocifer's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliaeetusvocifer&theme=shades-of-purple&layout=compact" 
+    alt="haliaeetusvocifer GitHub Top Languages" />
+</a>
